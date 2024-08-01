@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <cstdlib>
-#include <cstring>
+#include <stdio.h> // entrada e saida padrao
+#include <cstdlib> // alocacao dinamica de memoria
+#include <cstring> // manipulacao de strings
 
 #define INPUT_FILENAME "indice.bin" // nome do arquivo binário de entrada
 #define MAX_INDEX_LENGTH 100 // comprimento máximo do índice invertido
